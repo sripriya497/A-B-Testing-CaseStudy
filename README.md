@@ -99,7 +99,7 @@ This analysis was conducted as part of academic project at UTDallas.
 ## How to Use This Repository
 
 - The detailed report is available in `Vungle-Report.docx`.
-- Statistical analysis and data are organized in the `analysis.xlsx` directories.
+- Statistical analysis and data are organized in the `Analysis.xlsx` directories.
 
 ---
 
